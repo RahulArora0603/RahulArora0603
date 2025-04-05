@@ -39,7 +39,7 @@ Developed a Image Classifier using a pretrained detection model - Resnet50 from 
 
 ## 📢 Connect with Me  
 💼 **LinkedIn:** [https://www.linkedin.com/in/rahul-arora-datascience?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
-📂 **Portfolio:** [](#)  
+📂 **Portfolio:** [https://rahularora0603.github.io/DS-portfolio.github.io/](#)  
 📧 **Email:** rahul.arora0603@gmail.com
 
 ---
