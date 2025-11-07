@@ -1,7 +1,7 @@
 # Hi, I'm Rahul Arora 👋  
 
 ## 🚀 About Me  
-I am a **Data Science Trainer at SkillCircle** with a strong background in **Machine Learning, Data Analysis, and Visualization**. I have a passion for Data Science, Computer Vision, and working on real-world data science projects. My expertise includes **Python, SQL, Power BI, Tableau, and Deep Learning**.  
+I am a former **Data Science Trainer at SkillCircle** with a strong background in **Machine Learning, Data Analysis, and Visualization**. I have a passion for Data Science, Computer Vision, and working on real-world data science projects. My expertise includes **Python, SQL, Power BI, Tableau, and Deep Learning**.  
 
 I share coding challenges, tips, and insights on **Twitter**, and I create educational content on **YouTube** to help others learn data science effectively.  
 
