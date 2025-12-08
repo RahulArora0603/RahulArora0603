@@ -18,7 +18,11 @@ I share coding challenges, tips, and insights on **Twitter**, and I create educa
 ---
 
 ## 📂 Featured Projects  
-Here are some of my key projects that showcase my expertise:  
+Here are some of my key projects that showcase my expertise: 
+
+### **OmniFeed**
+🌐 A content aggregator webapp that lets user experience a unified feed from various social platforms like Reddit, Medium, Youtube,etc.
+🔗 [https://omnifeed.onrender.com/]
 
 ### 🏁 **Lane Line Detection Model**  
 🚗 Implemented a Computer Vision-based model to detect lane lines in images and videos using OpenCV.  
