@@ -7,6 +7,14 @@ I share coding challenges, tips, and insights on **Twitter**, and I create educa
 
 ---
 
+
+## 📢 Connect with Me  
+💼 **LinkedIn:** [https://www.linkedin.com/in/rahul-arora-datascience?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
+📂 **Portfolio:** [https://rahularora0603.github.io/DS-portfolio.github.io/](#)  
+📧 **Email:** rahul.arora0603@gmail.com
+
+---
+
 ## 🛠 Skills & Tools  
 - **Programming:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV)  
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau  
