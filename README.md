@@ -32,26 +32,26 @@ Here are some of my key projects that showcase my expertise:
 🌐 A content aggregator webapp that lets user experience a unified feed from various social platforms like Reddit, Medium, Youtube,etc.
 🔗 [https://omnifeed.onrender.com/]
 
-### 🏁 **Lane Line Detection Model**  
-🚗 Implemented a Computer Vision-based model to detect lane lines in images and videos using OpenCV.  
+### 🏁 **DocuSearch - Turn Documents into Instant Answers**  
+Enterprise RAG application for intelligent document querying using LLMs, embeddings, and vector search 
 
 🔗 [https://github.com/RahulArora0603/Computer-Vision-Projects/tree/main/Road%20Lane%20Line%20Detector](#)  
 
 ### 📊 **Image Classifier using Resnet50**  
 Developed a Image Classifier using a pretrained detection model - Resnet50 from HuggingFace.
 
-🔗 [https://github.com/RahulArora0603/Image-Classifier---Cats-vs-Dogs](#)  
+🔗 [https://github.com/RahulArora0603/DocuSearch-AI](#)  
 
-### 🔥 **Face Mask Detector**  
-💡 This application is capable of detecting surgical masks on a person's face. Used harcasade models for detection.
+### 🔥 **DesignBase - AI Powered Schema Designer**  
+AI-powered tool that converts natural-language requirements into structured database schemas.
 
-🔗 [https://github.com/RahulArora0603/Computer-Vision-Projects/tree/main/Face-Mask%20Detector](#)  
+🔗 [https://github.com/RahulArora0603/DesignBase](#)  
 
 ---
 
 ## 📢 Connect with Me  
 💼 **LinkedIn:** [https://www.linkedin.com/in/rahul-arora-datascience?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
-📂 **Portfolio:** [https://rahularora0603.github.io/DS-portfolio.github.io/](#)  
+📂 **Portfolio:** [https://datascientist-portfolio-five.vercel.app/](#)  
 📧 **Email:** rahul.arora0603@gmail.com
 
 ---
